@@ -1,0 +1,6 @@
+[package]
+name = "teaalbirru"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/gilangtam/teaalbirru"
+homepage = "https://github.com/gilangtam/teaalbirru"
