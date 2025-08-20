@@ -1,0 +1,9 @@
+{
+  "name": "teaalbirru",
+  "version": "1.0.0",
+  "description": "contoh project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/USERNAME/REPO.git"
+  }
+}
