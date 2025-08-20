@@ -1,0 +1,9 @@
+[project]
+name = "tealbirru"
+version = "0.1.0"
+description = "contoh project"
+readme = "README.md"
+
+[project.urls]
+Homepage = "https://github.com/USERNAME/REPO"
+Source = "https://github.com/USERNAME/REPO"
