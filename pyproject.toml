@@ -5,5 +5,5 @@ description = "contoh project"
 readme = "README.md"
 
 [project.urls]
-Homepage = "https://github.com/USERNAME/REPO"
-Source = "https://github.com/USERNAME/REPO"
+Homepage = "https://github.com/gilangtam/teaalbirru"
+Source = "https://github.com/gilangtam/teaalbirru"
